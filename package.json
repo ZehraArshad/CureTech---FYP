@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.22.1",
+    "@react-navigation/stack": "^6.3.21",
+    "mongoos": "^0.0.1-security",
+    "mongoose": "^8.1.3"
+  }
+}
